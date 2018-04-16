@@ -1,4 +1,4 @@
-## Node.js & MySQL
+# Node.js & MySQL
 
 
 ## Overview
@@ -20,8 +20,6 @@ Make sure you use the normal GitHub. Because this is a CLI App, there will be no
 * Because screenshots (and well-written READMEs) are extremely important in the context of GitHub, this will be part of the grading.
 
 
-If you haven't written a markdown file yet, click here for a rundown, or just take a look at the raw file of these instructions.
-
 
 ## Instructions
 
@@ -29,23 +27,23 @@ If you haven't written a markdown file yet, click here for a rundown, or just ta
 ## Challenge #1: Customer View (Minimum Requirement)
 
 
-Create a MySQL Database called bamazon.
-Then create a Table inside of that database called products.
-The products table should have each of the following columns:
+1. Create a MySQL Database called `bamazon`.
+1. Then create a Table inside of that database called `products`.
+1. The products table should have each of the following columns:
 
 
 
-item_id (unique id for each product)
-product_name (Name of product)
-department_name
-price (cost to customer)
-stock_quantity (how much of the product is available in stores)
+* item_id (unique id for each product)
+* product_name (Name of product)
+* department_name
+* price (cost to customer)
+* stock_quantity (how much of the product is available in stores)
 
 
 
-Populate this database with around 10 different products. (i.e. Insert "mock" data rows into this database and table).
-Then create a Node application called bamazonCustomer.js. Running this application will first display all of the items available for sale. Include the ids, names, and prices of products for sale.
-The app should then prompt users with two messages.
+1. Populate this database with around 10 different products. (i.e. Insert "mock" data rows into this database and table).
+1. Then create a Node application called `bamazonCustomer.js.` Running this application will first display all of the items available for sale. Include the ids, names, and prices of products for sale.
+1. The app should then prompt users with two messages.
 
 
 
