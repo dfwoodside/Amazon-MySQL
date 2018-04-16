@@ -4,11 +4,11 @@
 
 The Amzaon-like storefront app utilizes Node.JS and MySQL code to take in orders from customers and deplete stock from the store's inventory.  In addition a manager version of the application will track product sales across the store's departments.  This application runs on the following npm dependencies:
 
-      * `MySQL` 
-      * `Word-Wrap` 
-      * `Cli-Table` 
-      * `Inquirer` 
-      * `Colors`
+     * `MySQL` 
+     * `Word-Wrap` 
+     * `Cli-Table` 
+     * `Inquirer` 
+     * `Colors`
 
 ### Running the Application
 
