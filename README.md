@@ -24,7 +24,7 @@ Make sure you use the normal GitHub. Because this is a CLI App, there will be no
 ## Instructions
 
 
-## Challenge #1: Customer View (Minimum Requirement)
+### Challenge #1: Customer View (Minimum Requirement)
 
 
 1. Create a MySQL Database called `bamazon`.
@@ -78,7 +78,7 @@ Make sure you use the normal GitHub. Because this is a CLI App, there will be no
 
 
 
-## Challenge #2: Manager View (Next Level)
+### Challenge #2: Manager View (Next Level)
 
 
 
@@ -107,7 +107,7 @@ Make sure you use the normal GitHub. Because this is a CLI App, there will be no
 
 
 
-## Challenge #3: Supervisor View (Final Level)
+### Challenge #3: Supervisor View (Final Level)
 
 
 1. Create a new MySQL table called `departments`. Your table should include the following columns:
