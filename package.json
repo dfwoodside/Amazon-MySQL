@@ -1,0 +1,23 @@
+{
+  "name": "02-Homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BAmazon-CustView.js",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "colors": "^1.2.1",
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0",
+    "table": "^4.0.3",
+    "word-wrap": "^1.2.3",
+    "wrap": "^0.1.2",
+    "wordwrap": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
