@@ -1,3 +1,32 @@
+# Amazon-like storefront
+
+### How the application works
+
+The Amzaon-like storefront app utilizes Node.JS and MySQL code to take in orders from customers and deplete stock from the store's inventory.  In addition a manager version of the application will track product sales across the store's departments.  This application runs on the following npm dependencies:
+
+      * `MySQL` 
+      * `Word-Wrap` 
+      * `Cli-Table` 
+      * `Inquirer` 
+      * `Colors`
+
+### Running the Application
+
+Open a terminal window and run the following code:
+
+* For Customer View: `node` `BAmazon-CustView.js`
+
+    * Customers can buy products from the store and calculates the total cost.
+    * Based on the the quanity purchased the database will be updated, depleting the stock.
+
+* For Manager View: `node` `BAmazon-MgrView.js`
+    * Will list a set of menu options:
+    * `View Products for Sale`, the application will list every available item: the item IDs, names, prices, and quantities.
+    * `View Low Inventory`, will list all items with an inventory count lower than five.
+    * `Add to Inventory`, the application will display a prompt that will let the manager "add more" of any item currently in the store.
+    * `Add New Product`, will allow the manager to add a completely new product to the store.
+
+
 # Node.js & MySQL
 
 
