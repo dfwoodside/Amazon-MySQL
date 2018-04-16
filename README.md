@@ -27,7 +27,12 @@ Open a terminal window and run the following code:
     * `Add New Product`, will allow the manager to add a completely new product to the store.
 
 
-# Node.js & MySQL
+
+
+
+
+
+# Node.JS & MySQL
 
 
 ## Overview
